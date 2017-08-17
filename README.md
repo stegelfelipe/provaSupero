@@ -10,6 +10,8 @@ Usado para rodar:
 - JDK 1.8
 - Banco Mysql, usuário root e senha root 
 
-Arquivo SQL encontra-se na WebContent/tarefas.sql
+Arquivo SQL encontra-se na WebContent/tarefas.sql 
+
+Para o Mysql local, use o MySQL Workbench
 
 Ao instalar no seu localhost acesse pelo endereço: http://localhost:8080/testeSupero
